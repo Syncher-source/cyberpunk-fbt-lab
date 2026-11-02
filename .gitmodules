@@ -1,0 +1,3 @@
+[submodule "external/wrpuppets-fbt-ik"]
+	path = external/wrpuppets-fbt-ik
+	url = https://github.com/Syncher-source/wrpuppets-fbt-ik.git
